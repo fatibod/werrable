@@ -1,0 +1,10 @@
+com/example/android/wearable/wear/weardrawers/MainActivity.java
+ com.example.android.wearable.wear.weardrawers.MainActivity
+ com.example.android.wearable.wear.weardrawers.MainActivity$1
+ com.example.android.wearable.wear.weardrawers.MainActivity$MyAmbientCallback
+ com.example.android.wearable.wear.weardrawers.MainActivity$NavigationAdapter
+ com.example.android.wearable.wear.weardrawers.MainActivity$PlanetFragment
+com/example/android/wearable/wear/weardrawers/Planet.java
+ com.example.android.wearable.wear.weardrawers.Planet
+com/example/android/wearable/wear/weardrawers/BuildConfig.java
+ com.example.android.wearable.wear.weardrawers.BuildConfig

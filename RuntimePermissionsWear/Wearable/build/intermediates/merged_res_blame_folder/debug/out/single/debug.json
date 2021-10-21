@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\fatim\\OneDrive\\Escritorio\\wear-os-samples-main\\RuntimePermissionsWear\\Wearable\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\fatim\\OneDrive\\Escritorio\\wear-os-samples-main\\RuntimePermissionsWear\\Wearable\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\fatim\\OneDrive\\Escritorio\\wear-os-samples-main\\RuntimePermissionsWear\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable_ic_very_dissatisfied.xml.flat",
+        "source": "C:\\Users\\fatim\\OneDrive\\Escritorio\\wear-os-samples-main\\RuntimePermissionsWear\\Wearable\\src\\main\\res\\drawable\\ic_very_dissatisfied.xml"
+    },
+    {
+        "merged": "C:\\Users\\fatim\\OneDrive\\Escritorio\\wear-os-samples-main\\RuntimePermissionsWear\\Wearable\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\fatim\\OneDrive\\Escritorio\\wear-os-samples-main\\RuntimePermissionsWear\\Wearable\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\fatim\\OneDrive\\Escritorio\\wear-os-samples-main\\RuntimePermissionsWear\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable_ic_very_satisfied.xml.flat",
+        "source": "C:\\Users\\fatim\\OneDrive\\Escritorio\\wear-os-samples-main\\RuntimePermissionsWear\\Wearable\\src\\main\\res\\drawable\\ic_very_satisfied.xml"
+    },
+    {
+        "merged": "C:\\Users\\fatim\\OneDrive\\Escritorio\\wear-os-samples-main\\RuntimePermissionsWear\\Wearable\\build\\intermediates\\res\\merged\\debug\\layout_activity_request_permission_on_phone.xml.flat",
+        "source": "C:\\Users\\fatim\\OneDrive\\Escritorio\\wear-os-samples-main\\RuntimePermissionsWear\\Wearable\\src\\main\\res\\layout\\activity_request_permission_on_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\fatim\\OneDrive\\Escritorio\\wear-os-samples-main\\RuntimePermissionsWear\\Wearable\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\fatim\\OneDrive\\Escritorio\\wear-os-samples-main\\RuntimePermissionsWear\\Wearable\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\fatim\\OneDrive\\Escritorio\\wear-os-samples-main\\RuntimePermissionsWear\\Wearable\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\fatim\\OneDrive\\Escritorio\\wear-os-samples-main\\RuntimePermissionsWear\\Wearable\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\fatim\\OneDrive\\Escritorio\\wear-os-samples-main\\RuntimePermissionsWear\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable_ic_send_to_mobile.xml.flat",
+        "source": "C:\\Users\\fatim\\OneDrive\\Escritorio\\wear-os-samples-main\\RuntimePermissionsWear\\Wearable\\src\\main\\res\\drawable\\ic_send_to_mobile.xml"
+    },
+    {
+        "merged": "C:\\Users\\fatim\\OneDrive\\Escritorio\\wear-os-samples-main\\RuntimePermissionsWear\\Wearable\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\fatim\\OneDrive\\Escritorio\\wear-os-samples-main\\RuntimePermissionsWear\\Wearable\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\fatim\\OneDrive\\Escritorio\\wear-os-samples-main\\RuntimePermissionsWear\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable_action_background.xml.flat",
+        "source": "C:\\Users\\fatim\\OneDrive\\Escritorio\\wear-os-samples-main\\RuntimePermissionsWear\\Wearable\\src\\main\\res\\drawable\\action_background.xml"
+    }
+]

@@ -1,0 +1,262 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:14:1-62:12
+INJECTED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:14:1-62:12
+INJECTED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:14:1-62:12
+INJECTED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:14:1-62:12
+MERGED from [androidx.databinding:viewbinding:4.2.2] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\9ce093421b5703d18f4a3620631d5b61\jetified-viewbinding-4.2.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\fd6ee46725cffeea66716f0a1ba6367e\jetified-activity-ktx-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\4b83699a160e571a96590c905b35bdd1\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\140772a85ff80746734a2e8d59cf2e17\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\61242bed3dd16a4ffdf8da1146bcde6b\constraintlayout-2.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\9bdeb166dca67740dd2491136286a748\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.wear:wear:1.2.0-alpha13] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\d091ecf3418ca778f2288ede19f99ff8\wear-1.2.0-alpha13\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\a18263623f6a98fadd3e9b0caa6b20de\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\e49ad4bea4d5bfb2c9a5aa454228ec74\jetified-play-services-wearable-17.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\b3443de2b4ab9199cfc049961035d6fc\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\97a05022c158a7a9a13d94b3d1a43c36\jetified-play-services-base-17.5.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\5b4b2780cafc4efc783c45bf6730b783\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\f424bdfa9484d9d6190331f2bf4e5f73\jetified-play-services-basement-17.5.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\00bf7fe4632033624c7ecf4de2d32412\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\ec12922de783124b73480ecd07b4772f\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\829bd7759a94ca17d878a2bc80b32394\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\bc961f5a28d5d834f6f714df1e94d7ab\jetified-activity-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\8f803affa84866bb09348eed9f8b88a1\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\f518a355c25bf35bd517fb402deeb82c\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\216e41d2c7c6cc3e1c0afdf9830c9952\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\df67f61d0d5be7a4692b53118ef1a30a\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\f3092ec9e189d02fac6473e91d5560ac\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\8eb6c53c25648665c38f6f7757f21f01\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\39011eb4e216ab34f6702b7dd7eb4a72\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\39e73c5fba116ca64a51d71973d8ccd3\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\2698278c84556f878cf6c22d6857454c\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\a05c187b50db8639409db72f928470d4\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\7fb421a7748245ed45cc48f12ace5455\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\e1fec3f2985e3d99f2efb65b4406bf23\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\295fc06ba30325fe3eb691a809d90e0b\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\daaf1dbeb8ff25c5dd993583e85a092f\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\5cef673b7cbddb16b18d8833ce2f67b0\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\a5127a4bfa161579ef358c2acb67667c\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\c3f31c9f0dc57330df3cd5f959c469bd\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\3759a64a9c00496e4da35d0ffddb292e\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\0d344de3f33514864ce4baed7483d657\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\fcc578fba5d85d8c76a8a36bff1dc1bb\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:14:1-62:12
+INJECTED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:14:1-62:12
+INJECTED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:14:1-62:12
+	package
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:15:5-62
+		INJECTED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:14:1-62:12
+		INJECTED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:14:1-62:12
+		INJECTED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:14:11-69
+uses-feature#android.hardware.type.watch
+ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:17:5-64
+	android:name
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:17:19-61
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:19:22-65
+uses-permission#android.permission.BODY_SENSORS
+ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:20:5-71
+	android:name
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:20:22-68
+application
+ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:22:5-61:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\61242bed3dd16a4ffdf8da1146bcde6b\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\61242bed3dd16a4ffdf8da1146bcde6b\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.wear:wear:1.2.0-alpha13] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\d091ecf3418ca778f2288ede19f99ff8\wear-1.2.0-alpha13\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.wear:wear:1.2.0-alpha13] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\d091ecf3418ca778f2288ede19f99ff8\wear-1.2.0-alpha13\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\e49ad4bea4d5bfb2c9a5aa454228ec74\jetified-play-services-wearable-17.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\e49ad4bea4d5bfb2c9a5aa454228ec74\jetified-play-services-wearable-17.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\97a05022c158a7a9a13d94b3d1a43c36\jetified-play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\97a05022c158a7a9a13d94b3d1a43c36\jetified-play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\5b4b2780cafc4efc783c45bf6730b783\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\5b4b2780cafc4efc783c45bf6730b783\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\f424bdfa9484d9d6190331f2bf4e5f73\jetified-play-services-basement-17.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\f424bdfa9484d9d6190331f2bf4e5f73\jetified-play-services-basement-17.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\7fb421a7748245ed45cc48f12ace5455\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\7fb421a7748245ed45cc48f12ace5455\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\daaf1dbeb8ff25c5dd993583e85a092f\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\daaf1dbeb8ff25c5dd993583e85a092f\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\7fb421a7748245ed45cc48f12ace5455\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:26:9-59
+meta-data#com.google.android.wearable.standalone
+ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:28:9-30:37
+	android:value
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:30:13-34
+	android:name
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:29:13-66
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:32:9-34:69
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\f424bdfa9484d9d6190331f2bf4e5f73\jetified-play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\f424bdfa9484d9d6190331f2bf4e5f73\jetified-play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:34:13-66
+	android:name
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:33:13-58
+activity#com.example.android.wearable.runtimepermissions.MainWearActivity
+ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:36:9-45:20
+	android:label
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:38:13-45
+	android:launchMode
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:39:13-48
+	android:name
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:37:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:43:27-74
+activity#com.example.android.wearable.runtimepermissions.RequestPermissionOnPhoneActivity
+ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:47:9-50:20
+	android:label
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:49:13-79
+	android:name
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:48:13-61
+service#com.example.android.wearable.runtimepermissions.IncomingRequestWearService
+ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:52:9-60:19
+	android:enabled
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:54:13-35
+	android:exported
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:55:13-36
+	android:name
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:53:13-55
+intent-filter#action:name:com.google.android.gms.wearable.MESSAGE_RECEIVED+data:host:*+data:pathPrefix:/+data:scheme:wear
+ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:56:13-59:29
+action#com.google.android.gms.wearable.MESSAGE_RECEIVED
+ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:57:17-91
+	android:name
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:57:25-88
+data
+ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:58:17-86
+	android:host
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:58:45-61
+	android:scheme
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:58:23-44
+	android:pathPrefix
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:58:62-84
+uses-sdk
+INJECTED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml
+INJECTED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:4.2.2] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\9ce093421b5703d18f4a3620631d5b61\jetified-viewbinding-4.2.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.2] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\9ce093421b5703d18f4a3620631d5b61\jetified-viewbinding-4.2.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\fd6ee46725cffeea66716f0a1ba6367e\jetified-activity-ktx-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\fd6ee46725cffeea66716f0a1ba6367e\jetified-activity-ktx-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\4b83699a160e571a96590c905b35bdd1\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\4b83699a160e571a96590c905b35bdd1\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\140772a85ff80746734a2e8d59cf2e17\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\140772a85ff80746734a2e8d59cf2e17\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\61242bed3dd16a4ffdf8da1146bcde6b\constraintlayout-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\61242bed3dd16a4ffdf8da1146bcde6b\constraintlayout-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\9bdeb166dca67740dd2491136286a748\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\9bdeb166dca67740dd2491136286a748\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.wear:wear:1.2.0-alpha13] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\d091ecf3418ca778f2288ede19f99ff8\wear-1.2.0-alpha13\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.wear:wear:1.2.0-alpha13] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\d091ecf3418ca778f2288ede19f99ff8\wear-1.2.0-alpha13\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\a18263623f6a98fadd3e9b0caa6b20de\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\a18263623f6a98fadd3e9b0caa6b20de\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\e49ad4bea4d5bfb2c9a5aa454228ec74\jetified-play-services-wearable-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\e49ad4bea4d5bfb2c9a5aa454228ec74\jetified-play-services-wearable-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\b3443de2b4ab9199cfc049961035d6fc\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\b3443de2b4ab9199cfc049961035d6fc\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\97a05022c158a7a9a13d94b3d1a43c36\jetified-play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\97a05022c158a7a9a13d94b3d1a43c36\jetified-play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\5b4b2780cafc4efc783c45bf6730b783\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\5b4b2780cafc4efc783c45bf6730b783\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\f424bdfa9484d9d6190331f2bf4e5f73\jetified-play-services-basement-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\f424bdfa9484d9d6190331f2bf4e5f73\jetified-play-services-basement-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\00bf7fe4632033624c7ecf4de2d32412\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\00bf7fe4632033624c7ecf4de2d32412\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\ec12922de783124b73480ecd07b4772f\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\ec12922de783124b73480ecd07b4772f\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\829bd7759a94ca17d878a2bc80b32394\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\829bd7759a94ca17d878a2bc80b32394\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\bc961f5a28d5d834f6f714df1e94d7ab\jetified-activity-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\bc961f5a28d5d834f6f714df1e94d7ab\jetified-activity-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\8f803affa84866bb09348eed9f8b88a1\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\8f803affa84866bb09348eed9f8b88a1\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\f518a355c25bf35bd517fb402deeb82c\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\f518a355c25bf35bd517fb402deeb82c\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\216e41d2c7c6cc3e1c0afdf9830c9952\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\216e41d2c7c6cc3e1c0afdf9830c9952\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\df67f61d0d5be7a4692b53118ef1a30a\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\df67f61d0d5be7a4692b53118ef1a30a\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\f3092ec9e189d02fac6473e91d5560ac\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\f3092ec9e189d02fac6473e91d5560ac\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\8eb6c53c25648665c38f6f7757f21f01\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\8eb6c53c25648665c38f6f7757f21f01\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\39011eb4e216ab34f6702b7dd7eb4a72\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\39011eb4e216ab34f6702b7dd7eb4a72\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\39e73c5fba116ca64a51d71973d8ccd3\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\39e73c5fba116ca64a51d71973d8ccd3\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\2698278c84556f878cf6c22d6857454c\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\2698278c84556f878cf6c22d6857454c\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\a05c187b50db8639409db72f928470d4\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\a05c187b50db8639409db72f928470d4\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\7fb421a7748245ed45cc48f12ace5455\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\7fb421a7748245ed45cc48f12ace5455\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\e1fec3f2985e3d99f2efb65b4406bf23\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\e1fec3f2985e3d99f2efb65b4406bf23\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\295fc06ba30325fe3eb691a809d90e0b\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\295fc06ba30325fe3eb691a809d90e0b\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\daaf1dbeb8ff25c5dd993583e85a092f\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\daaf1dbeb8ff25c5dd993583e85a092f\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\5cef673b7cbddb16b18d8833ce2f67b0\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\5cef673b7cbddb16b18d8833ce2f67b0\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\a5127a4bfa161579ef358c2acb67667c\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\a5127a4bfa161579ef358c2acb67667c\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\c3f31c9f0dc57330df3cd5f959c469bd\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\c3f31c9f0dc57330df3cd5f959c469bd\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\3759a64a9c00496e4da35d0ffddb292e\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\3759a64a9c00496e4da35d0ffddb292e\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\0d344de3f33514864ce4baed7483d657\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\0d344de3f33514864ce4baed7483d657\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\fcc578fba5d85d8c76a8a36bff1dc1bb\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\fcc578fba5d85d8c76a8a36bff1dc1bb\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml
+INJECTED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml
+uses-library#com.google.android.wearable
+ADDED from [androidx.wear:wear:1.2.0-alpha13] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\d091ecf3418ca778f2288ede19f99ff8\wear-1.2.0-alpha13\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.wear:wear:1.2.0-alpha13] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\d091ecf3418ca778f2288ede19f99ff8\wear-1.2.0-alpha13\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.wear:wear:1.2.0-alpha13] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\d091ecf3418ca778f2288ede19f99ff8\wear-1.2.0-alpha13\AndroidManifest.xml:26:13-55
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\97a05022c158a7a9a13d94b3d1a43c36\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\97a05022c158a7a9a13d94b3d1a43c36\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\97a05022c158a7a9a13d94b3d1a43c36\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\97a05022c158a7a9a13d94b3d1a43c36\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RuntimePermissionsWear.iml" filepath="$PROJECT_DIR$/.idea/modules/RuntimePermissionsWear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/RuntimePermissionsWear.Application.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/RuntimePermissionsWear.Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Shared/RuntimePermissionsWear.Shared.iml" filepath="$PROJECT_DIR$/.idea/modules/Shared/RuntimePermissionsWear.Shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Wearable/RuntimePermissionsWear.Wearable.iml" filepath="$PROJECT_DIR$/.idea/modules/Wearable/RuntimePermissionsWear.Wearable.iml" />
+    </modules>
+  </component>
+</project>

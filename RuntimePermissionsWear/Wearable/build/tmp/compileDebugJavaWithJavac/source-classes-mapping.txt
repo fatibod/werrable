@@ -1,0 +1,6 @@
+com/example/android/wearable/runtimepermissions/databinding/ActivityRequestPermissionOnPhoneBinding.java
+ com.example.android.wearable.runtimepermissions.databinding.ActivityRequestPermissionOnPhoneBinding
+com/example/android/wearable/runtimepermissions/databinding/ActivityMainBinding.java
+ com.example.android.wearable.runtimepermissions.databinding.ActivityMainBinding
+com/example/android/wearable/runtimepermissions/BuildConfig.java
+ com.example.android.wearable.runtimepermissions.BuildConfig

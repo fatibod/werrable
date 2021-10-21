@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\fatim\\OneDrive\\Escritorio\\wear-os-samples-main\\RuntimePermissionsWear\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_request_permission_on_phone.xml",
+        "source": "C:\\Users\\fatim\\OneDrive\\Escritorio\\wear-os-samples-main\\RuntimePermissionsWear\\Wearable\\src\\main\\res\\layout\\activity_request_permission_on_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\fatim\\OneDrive\\Escritorio\\wear-os-samples-main\\RuntimePermissionsWear\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\fatim\\OneDrive\\Escritorio\\wear-os-samples-main\\RuntimePermissionsWear\\Wearable\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

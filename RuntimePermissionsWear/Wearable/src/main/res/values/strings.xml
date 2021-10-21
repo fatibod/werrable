@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2021 The Android Open Source Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          https://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="app_name">Runtime Permissions</string>
+
+    <string name="hello_wear_activity_main">Feliz es igual a aprobado, triste es igual a denegado. \ n \ n Para ver los resultados o solicitar permisos, haga clic en los botones de arriba.</string>
+    <string name="button_wear_label_activity_main">Wear Sensors</string>
+    <string name="button_phone_label_activity_main">Phone Information</string>
+    <string name="phone_not_available">Teléfono no disponible para enviar mensaje.</string>
+    <string name="user_denied_remote_permission">Usuario denegado el permiso en el dispositivo remoto.</string>
+    <string name="user_approved_remote_permission">Permiso aprobado por el usuario en el dispositivo remoto, solicitando datos nuevamente.</string>
+    <string name="requested_info_from_phone">Información solicitada desde el teléfono. Es posible que se requiera una nueva aprobación.</string>
+    <string name="requested_local_permission">Permiso local solicitado.</string>
+    <string name="requested_remote_permission">Permiso solicitado por teléfono.</string>
+    <string name="sensor_summary">%1$d sensors on wear device(s)!</string>
+
+    <string name="title_activity_request_permission_on_phone">PhonePermissionRationale</string>
+    <string name="permission_message_activity_request_permission_on_phone">App requires access to your phone\'s information.</string>
+    <string name="open_on_phone_message_activity_request_permission_on_phone">Open on phone</string>
+</resources>

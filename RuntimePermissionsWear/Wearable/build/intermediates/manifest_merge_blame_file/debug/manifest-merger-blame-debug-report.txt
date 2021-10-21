@@ -1,0 +1,133 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3     Copyright (C) 2021 The Android Open Source Project
+4     Licensed under the Apache License, Version 2.0 (the "License");
+5     you may not use this file except in compliance with the License.
+6     You may obtain a copy of the License at
+7          https://www.apache.org/licenses/LICENSE-2.0
+8     Unless required by applicable law or agreed to in writing, software
+9     distributed under the License is distributed on an "AS IS" BASIS,
+10     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+11     See the License for the specific language governing permissions and
+12     limitations under the License.
+13-->
+14<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+15    package="com.example.android.wearable.runtimepermissions"
+16    android:versionCode="1"
+17    android:versionName="1.0" >
+18
+19    <uses-sdk
+20        android:minSdkVersion="26"
+20-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml
+21        android:targetSdkVersion="30" />
+21-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml
+22
+23    <uses-feature android:name="android.hardware.type.watch" />
+23-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:17:5-64
+23-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:17:19-61
+24
+25    <uses-permission android:name="android.permission.WAKE_LOCK" />
+25-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:19:5-68
+25-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:19:22-65
+26    <uses-permission android:name="android.permission.BODY_SENSORS" />
+26-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:20:5-71
+26-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:20:22-68
+27
+28    <application
+28-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:22:5-61:19
+29        android:allowBackup="true"
+29-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:23:9-35
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.6.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\7fb421a7748245ed45cc48f12ace5455\core-1.6.0\AndroidManifest.xml:24:18-86
+31        android:debuggable="true"
+32        android:extractNativeLibs="false"
+33        android:icon="@mipmap/ic_launcher"
+33-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:24:9-43
+34        android:label="@string/app_name"
+34-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:25:9-41
+35        android:testOnly="true"
+36        android:theme="@style/Theme.AppCompat.NoActionBar" >
+36-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:26:9-59
+37        <meta-data
+37-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:28:9-30:37
+38            android:name="com.google.android.wearable.standalone"
+38-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:29:13-66
+39            android:value="false" />
+39-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:30:13-34
+40        <meta-data
+40-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:32:9-34:69
+41            android:name="com.google.android.gms.version"
+41-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:33:13-58
+42            android:value="@integer/google_play_services_version" />
+42-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:34:13-66
+43
+44        <activity
+44-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:36:9-45:20
+45            android:name="com.example.android.wearable.runtimepermissions.MainWearActivity"
+45-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:37:13-45
+46            android:label="@string/app_name"
+46-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:38:13-45
+47            android:launchMode="singleInstance" >
+47-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:39:13-48
+48            <intent-filter>
+48-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:40:13-44:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:41:17-69
+49-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:41:25-66
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:43:17-77
+51-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:43:27-74
+52            </intent-filter>
+53        </activity>
+54        <activity
+54-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:47:9-50:20
+55            android:name="com.example.android.wearable.runtimepermissions.RequestPermissionOnPhoneActivity"
+55-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:48:13-61
+56            android:label="@string/title_activity_request_permission_on_phone" >
+56-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:49:13-79
+57        </activity>
+58
+59        <service
+59-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:52:9-60:19
+60            android:name="com.example.android.wearable.runtimepermissions.IncomingRequestWearService"
+60-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:53:13-55
+61            android:enabled="true"
+61-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:54:13-35
+62            android:exported="true" >
+62-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:55:13-36
+63            <intent-filter>
+63-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:56:13-59:29
+64                <action android:name="com.google.android.gms.wearable.MESSAGE_RECEIVED" />
+64-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:57:17-91
+64-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:57:25-88
+65
+66                <data
+66-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:58:17-86
+67                    android:host="*"
+67-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:58:45-61
+68                    android:pathPrefix="/"
+68-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:58:62-84
+69                    android:scheme="wear" />
+69-->C:\Users\fatim\OneDrive\Escritorio\wear-os-samples-main\RuntimePermissionsWear\Wearable\src\main\AndroidManifest.xml:58:23-44
+70            </intent-filter>
+71        </service>
+72
+73        <uses-library
+73-->[androidx.wear:wear:1.2.0-alpha13] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\d091ecf3418ca778f2288ede19f99ff8\wear-1.2.0-alpha13\AndroidManifest.xml:25:9-27:40
+74            android:name="com.google.android.wearable"
+74-->[androidx.wear:wear:1.2.0-alpha13] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\d091ecf3418ca778f2288ede19f99ff8\wear-1.2.0-alpha13\AndroidManifest.xml:26:13-55
+75            android:required="false" />
+75-->[androidx.wear:wear:1.2.0-alpha13] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\d091ecf3418ca778f2288ede19f99ff8\wear-1.2.0-alpha13\AndroidManifest.xml:27:13-37
+76
+77        <activity
+77-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\97a05022c158a7a9a13d94b3d1a43c36\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+78            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+78-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\97a05022c158a7a9a13d94b3d1a43c36\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+79            android:exported="false"
+79-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\97a05022c158a7a9a13d94b3d1a43c36\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+80            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+80-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\fatim\.gradle\caches\transforms-2\files-2.1\97a05022c158a7a9a13d94b3d1a43c36\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+81    </application>
+82
+83</manifest>
